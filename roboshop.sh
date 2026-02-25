@@ -1,6 +1,6 @@
 #!/bin/bash
 
-AMI_ID="ami-09c813fb71547fc4f"
+AMI_ID="ami-0220d79f3f480ecf5"
 SG_ID="sg-0632ee69134621c30" # replace with your SG ID
 ZONE_ID="Z044489817NZDTNMZWIGF" # replace with your ID
 DOMAIN_NAME="mounikaindyala.fun"
